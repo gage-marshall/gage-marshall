@@ -2,7 +2,7 @@
 
 I build the software and hardware that test things on a factory floor: test fixtures, the firmware inside them, the desktop
 tools operators run, and the internal platforms that tie it all together. Day job is manufacturing engineering at
-[Sensit Technologies](https://www.gasleaksensors.com/), a maker of gas detection instruments.
+[Sensit Technologies](https://www.gasleaksensors.com/), a maker of gas detection instruments. Outside of that, I do reverse engineering and the occasional bit of security research.
 
 Most of that work is private, so here's what it looks like:
 
